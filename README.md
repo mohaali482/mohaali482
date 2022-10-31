@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and Telegram Bot Developer
 ------------------------------
 
-I've been learning to code for 4 years now, the first language I learned was HTML. Then when I got into university, I learned python which I liked the most. Then shortly after that, I got into competitive programming, it helped me a lot to be a good problem solver and understand a lot of the problems I faced in a much easier way. I wanted to start using python to solve real-world problems by developing projects, so I started learning Django for web-based apps, then after some time, I began to learn about Telegram API for building telegram bots, and using that I entered a hackathon which I ended up winning the competition. Some of the hackathon codes I participated in are found in my GitHub repository feel free to check them out.
+I've been learning to code for 4 years now, the first language I learned was HTML. Then when I got into university, I learned python which I liked the most. Then shortly after that, I got into competitive programming, it helped me a lot to be a good problem solver and understand a lot of the problems I faced in a much easier way.\
+\
+\
+I wanted to start using python to solve real-world problems by developing projects, so I started learning Django for web-based apps, then after some time, I began to learn about Telegram API for building telegram bots, and using that I entered a hackathon which I ended up winning the competition.\
+\
+\
+Some of the hackathon codes I participated in are found in my GitHub repository feel free to check them out.
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * ✉️  You can contact me at [mohaali482@gmail.com](mailto:mohaali482@gmail.com)
