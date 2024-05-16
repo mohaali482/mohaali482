@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------------------
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohaali482&label=Profile%20views&color=0e75b6&style=flat" alt="mohaali482" /> </p>
+
 A software engineer with 2+ years of experience in designing and developing web applications. I excel in building user-centric web applications with technologies such as Django, Go and React. With a competitive programming background of 4 years, I am capable of working optimally within a tight deadline.
 
 * 🌍  Based in Addis Ababa, Ethiopia
